@@ -32,7 +32,6 @@ pyrsistent==0.18.1
 requests==2.27.1
 rlp==2.0.1
 semantic-version==2.9.0
-six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-103/six-1.15.0-py2.py3-none-any.whl
 toolz==0.11.2
 urllib3==1.26.8
 varint==1.0.2
